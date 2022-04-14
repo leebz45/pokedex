@@ -1,0 +1,11 @@
+.Pokecard {
+    background-color: gainsboro;
+    color:black;
+    font-weight: bold;
+    border-radius: 1rem;
+    margin: auto;
+}
+
+.Pokecard h3 {
+    color:blue;
+}

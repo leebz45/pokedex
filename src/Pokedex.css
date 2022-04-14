@@ -1,0 +1,11 @@
+.Pokedex {
+    color: lightgrey;
+    width: 50%;
+    margin:auto;
+}
+
+.Pokedex-cards {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 2rem;
+}
